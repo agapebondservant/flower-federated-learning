@@ -1,0 +1,8 @@
+flwr
+flwr[simulation]
+flwr_datasets[vision]
+#torch
+#torchvision
+#matplotlib
+#protobuf==4.25.2
+#Pillow==9.4.0
