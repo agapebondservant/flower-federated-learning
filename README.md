@@ -1,10 +1,21 @@
-## Instructions
+## Overview
+Simple demonstration of cross-silo, horizontal federated learning with Greenplum clients and a centralized aggregation server based on the Flower framework.
+Uses **FedAvg** algorithm.
+
+<img src="federatedlearning.jpg"
+alt="Markdown Monster icon"
+style="float: left; margin-right: 10px;" />
+
+## Run on Tanzu Platform for K8s
+(Documentation in progress)
+
+## Run locally
 * Install pip dependencies:
 ```
 pip install -r requirements.txt
 ```
 
-* Run
+* Run the following:
 ```
 #!/bin/bash
 set -e
